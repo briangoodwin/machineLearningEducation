@@ -123,12 +123,6 @@ http://jordan-wright.com/blog/
 
 
 
-
-This list was found on 
-
-A curated list of data science blogs http://rushter.com/dsreader/
-https://github.com/rushter/data-science-blogs.git
-
 # Data science blogs
 A curated list of data science blogs
 
